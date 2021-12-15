@@ -2,7 +2,7 @@
 
 I'm Oleh (friends call me Olich) 👱 <br>
 
-🧙 I love learn new stuff, develop backend services (with attention on software architecture, clean code, best practices) and automate things 🦸‍♂️
+🧙 I love learning new stuff, programming backend services (with attention on software architecture, clean code, best practices) and automating things 🦸‍♂️
 
 <!--
 **olich97/olich97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
