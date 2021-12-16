@@ -4,7 +4,9 @@ I'm Oleh (friends call me Olich) 👱 <br>
 
 🧙 I love learning new stuff, programming backend services (with attention on software architecture, clean code, best practices) and automating things 🦸‍♂️
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olich97&layout=compact) -->
+### 📈 Github Stats
+![Stats Overview](generated/overview.svg)
+![Most Used Languages](generated/languages.svg)
 
 <!--
 **olich97/olich97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
