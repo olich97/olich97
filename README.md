@@ -6,8 +6,9 @@ I'm Oleh (friends call me Olich) 👱 <br>
 
 ### 📈 Github Stats
 ![Stats Overview](generated/overview.svg)
-![Most Used Languages](generated/languages.svg)
-
+![Most Used Languages](generated/languages.svg)  <br>
+Last year contributions (based on commits):
+![Contributions by commits](profile-3d-contrib/3d-stats.svg)
 <!--
 **olich97/olich97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
