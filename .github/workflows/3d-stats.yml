@@ -2,7 +2,7 @@ name: GitHub 3D Stats
 
 on:
   schedule:
-    - cron: "0 */18 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,6 +16,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_3D_GITHUB_STATS }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: ${{ github.repository_count }}
+          SETTING_JSON: ../../profile-3d-contrib/settings.json
       - name: Commit & Push
         run: |
           git config user.name olich97
