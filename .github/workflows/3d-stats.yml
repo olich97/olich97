@@ -1,0 +1,25 @@
+name: GitHub 3D Stats
+
+on:
+  schedule:
+    - cron: "0 */18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.3D_STATS_GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: ${{ github.repository_count }}
+      - name: Commit & Push
+        run: |
+          git config user.name olich97
+          git config user.email 3544234+olich97@users.noreply.github.com
+          git add -A .
+          git commit -m "Update 3D profile stats"
+          git push
