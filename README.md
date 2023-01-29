@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Olich
 
-🧙 I love learning new stuff, programming backend services (with attention on software architecture, clean code, best practices) and automating things 🦸‍♂️
+🧙 Currently learning new stuff, programming backend services and automating things 🦸‍♂️
 
 ### 📈 Github Stats
 Last year contributions:
