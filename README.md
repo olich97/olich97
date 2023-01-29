@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Oleh (friends call me Olich)
+## Hi there 👋 I'm Oleh (or Olich)
 
 🧙 I love learning new stuff, programming backend services (with attention on software architecture, clean code, best practices) and automating things 🦸‍♂️
 
