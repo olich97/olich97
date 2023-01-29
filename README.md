@@ -1,6 +1,4 @@
-## Hi there Brates! 👋
-
-I'm Oleh (friends call me Olich) 👱 <br>
+## Hi there 👋 I'm Oleh (friends call me Olich)
 
 🧙 I love learning new stuff, programming backend services (with attention on software architecture, clean code, best practices) and automating things 🦸‍♂️
 
