@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Olich
+## Hi there 👋 I'm Oleh
 
-🧙 Currently learning new stuff, programming backend services and automating things 🦸‍♂️
+🧙 Currently learning new stuff, programming backend services and automating things 🏗️
 
 ### 📈 Github Stats
 Last year contributions:
