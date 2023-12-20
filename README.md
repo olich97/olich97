@@ -1,4 +1,4 @@
-![bg](https://olich.me/img/bg_hu6c0f3a2a0715851ab3979be1ad8251c0_1016347_800x0_resize_box_3.png)
+![bg](bg.png)
 ## Hi there 👋 I'm Oleh
 
 - 💻 Software Engineer with a fascination for distributed systems, blockchains, and cloud development.
