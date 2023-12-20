@@ -6,8 +6,7 @@
 - 🧑‍🚀 Passionate about exploring and implementing innovative tech solutions.
 - 🗺️ Energetic, self-motivated and travel addicted.
 
-
-📕 &nbsp;**Latest Blog Posts**
+### 📕 Latest Blog Posts
 - [Smart contract solidity development with foundry](https://olich.me/post/smart-contract-solidity-development-with-foundry)
 - [Setting up smart contract solidity development repository with hardhat](https://olich.me/post/setting-up-smart-contract-solidity-development-repository-with-hardhat/)
 - [Self-hosted analytics platform with Umami, Supabase, and Vercel](https://olich.me/post/self-hosted-analytics-platform-with-umami-supabase-and-vercel)
