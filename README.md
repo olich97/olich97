@@ -2,7 +2,7 @@
 ## Hi there 👋 I'm Oleh
 
 - 💻 Software Engineer with a fascination for distributed systems, blockchains, and cloud development.
-- 🔭 I’m able to write code in Rust, TypeScript, and C# and build frontends using React/Next.js.
+- 🔭 I’m able to write code in Rust, TypeScript/JavaScript, Python, C++, C# and build frontends using React/Next.js.
 - 🧑‍🚀 Passionate about exploring and implementing innovative tech solutions.
 - 🗺️ Energetic, self-motivated and travel addicted.
 
