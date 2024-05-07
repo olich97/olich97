@@ -7,6 +7,7 @@
 - 🗺️ Energetic, self-motivated and travel addicted.
 
 ### 📕 Latest Blog Posts
+- [Indexing blockchain and IPFS data for ERC1155 tokens with The Graph Protocol](https://olich.me/post/indexing-blockchain-and-ipfs-data-for-erc1155-tokens-with-the-graph-protocol/)
 - [Smart contract solidity development with foundry](https://olich.me/post/smart-contract-solidity-development-with-foundry)
 - [Setting up smart contract solidity development repository with hardhat](https://olich.me/post/setting-up-smart-contract-solidity-development-repository-with-hardhat/)
 - [Self-hosted analytics platform with Umami, Supabase, and Vercel](https://olich.me/post/self-hosted-analytics-platform-with-umami-supabase-and-vercel)
