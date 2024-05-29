@@ -99,7 +99,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3178c6;width: 25.788%;" class="progress-item"></span><span style="background-color: #4a137a;width: 21.011%;" class="progress-item"></span><span style="background-color: #AA6746;width: 18.689%;" class="progress-item"></span><span style="background-color: #563d7c;width: 12.454%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 10.137%;" class="progress-item"></span><span style="background-color: #c6538c;width: 5.685%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.925%;" class="progress-item"></span><span style="background-color: #e34c26;width: 1.543%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.873%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.613%;" class="progress-item"></span><span style="background-color: #178600;width: 0.612%;" class="progress-item"></span><span style="background-color: #dea584;width: 0.424%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.146%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.101%;" class="progress-item"></span>
+<span style="background-color: #3178c6;width: 25.818%;" class="progress-item"></span><span style="background-color: #4a137a;width: 21.002%;" class="progress-item"></span><span style="background-color: #AA6746;width: 18.681%;" class="progress-item"></span><span style="background-color: #563d7c;width: 12.449%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 10.133%;" class="progress-item"></span><span style="background-color: #c6538c;width: 5.683%;" class="progress-item"></span><span style="background-color: #3572A5;width: 1.924%;" class="progress-item"></span><span style="background-color: #e34c26;width: 1.542%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.873%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.612%;" class="progress-item"></span><span style="background-color: #178600;width: 0.612%;" class="progress-item"></span><span style="background-color: #dea584;width: 0.424%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.146%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.101%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -111,7 +111,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">25.79%</span>
+<span class="percent">25.82%</span>
 </li>
 
 
@@ -120,7 +120,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Move</span>
-<span class="percent">21.01%</span>
+<span class="percent">21.00%</span>
 </li>
 
 
@@ -129,7 +129,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Solidity</span>
-<span class="percent">18.69%</span>
+<span class="percent">18.68%</span>
 </li>
 
 
@@ -147,7 +147,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">10.14%</span>
+<span class="percent">10.13%</span>
 </li>
 
 
@@ -156,7 +156,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">SCSS</span>
-<span class="percent">5.69%</span>
+<span class="percent">5.68%</span>
 </li>
 
 
